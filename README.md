@@ -1,1 +1,1 @@
-# MalScanCodes
+# MalScan
