@@ -1,5 +1,4 @@
 ## MalScan: Android Malware Detection Based on Social-Network Centrality Analysis
-### Abstract
 Malware scanning of an app market is expected to be scalable and effective. However, existing approaches use
 syntax-based features that can be evaded by transformation attacks or semantic-based features which are usually extracted by
 expensive program analysis. Therefore, to address the scalability challenges of traditional heavyweight static analysis, we propose a
